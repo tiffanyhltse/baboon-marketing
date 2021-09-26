@@ -1,2 +1,6 @@
 # baboon-marketing
-Formal marketing plan slide deck for Baboon to the Moon
+A formal marketing plan slide deck for Baboon to the Moon (BttM), formulated under Professor Bhavya Mohan's instruction. 
+This document was shared with a BttM guest judge and recognized for its theme and clear SWOT analysis. 
+
+
+
